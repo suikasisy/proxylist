@@ -10,8 +10,7 @@
         "apis.google.com",
         "services.googleapis.cn",
         "play.googleapis.com",
-        "xn--ngstr-lra8j.com",
-        "oop.tw"
+        "xn--ngstr-lra8j.com"
       ],
       "domain_regex": ["^.*clients.*\\.google\\.com$"]
     }
