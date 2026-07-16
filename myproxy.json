@@ -5,15 +5,13 @@
       "domain": [],
       "domain_keyword": [],
       "domain_suffix": [
-        "18comic.vip",
-        "connectivitycheck.gstatic.com",
-        "googleapis.com",
-        "apis.google.com",
         "services.googleapis.cn",
         "play.googleapis.com",
+        "connectivitycheck.gstatic.com",
+        "android.clients.google.com",
         "xn--ngstr-lra8j.com"
       ],
-      "domain_regex": ["^.*clients.*\\.google\\.com$"]
+      "domain_regex": []
     }
   ]
 }
