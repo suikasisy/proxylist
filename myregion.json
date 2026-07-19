@@ -10,7 +10,7 @@
         "apis.google.com"
 
       ],
-      "domain_regex": ["^.*clients.*\\.google\\.com$"]
+      "domain_regex": []
     }
   ]
 }
