@@ -4,8 +4,14 @@
     {
       "domain": [],
       "domain_keyword": [],
-      "domain_suffix": ["18comic.vip", "googleapis.com", "apis.google.com"],
-      "domain_regex": ["^.*clients.*\\.google\\.com$"]
+      "domain_suffix": [
+        "18comic.vip",
+        "googleapis.com",
+        "apis.google.com"
+      ],
+      "domain_regex": [
+        "^.*clients.*\\.google\\.com$"
+      ]
     }
   ]
 }
